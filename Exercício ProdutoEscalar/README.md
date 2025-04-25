@@ -22,6 +22,7 @@ A · B = A₁×B₁ + A₂×B₂ + ... + Aₙ×Bₙ
 ```bash
 javac ProdutoEscalar.java
 java ProdutoEscalar
+```
 
 ## Exemplo
 
