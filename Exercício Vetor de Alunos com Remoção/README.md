@@ -11,8 +11,11 @@ Este exercício cria uma lista de alunos:
 ## Estrutura
 
 | Arquivo | Descrição |
+
 | Aluno.java | Representa um aluno (nome, pontuação) |
+
 | VetorLista.java | Gerencia uma lista de alunos |
+
 | TesteRemovePorPosicao.java | Testa a remoção de um aluno |
 
 ---
