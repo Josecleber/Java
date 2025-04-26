@@ -20,17 +20,6 @@ Este exercício cria uma lista de alunos:
 
 ---
 
-## Como compilar e executar
-
-```bash
-javac vetor_lista/*.java
-java vetor_lista.TesteRemovePorPosicao
-```
-
-#Exemplo de saída
-
-[Paulo]
-
 ## Autor
 José Cleber Alves da Cruz Mendes  
 Curso: Engenharia da Computação – Uniube
