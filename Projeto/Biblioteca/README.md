@@ -41,13 +41,13 @@ Este é um sistema desktop de gerenciamento de biblioteca com interface gráfica
 show.BibliotecaApp
 ```
 
-# Banco de Dados
+## Banco de Dados
 
 Utiliza o H2 em memória
 
 Tabelas são criadas automaticamente na primeira execução
 
-# Exemplo de Fluxo
+## Exemplo de Fluxo
 
 Abra a aplicação
 
@@ -68,4 +68,5 @@ Luiz Gustavo Moreira Lima
 Bryan Henrique Oliveira Evangelista
 
 Projeto apresentado na UNIUBE, 2024.
+
 Curso: Engenharia da Computação – Uniube
