@@ -12,7 +12,6 @@ public class ConexaoBD {
     private static final String USER = "sa";
     private static final String PASS = "";
 
-
     public static Connection conectar() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASS);
     }
@@ -23,11 +22,8 @@ public class ConexaoBD {
         }
         return con;
     }
-
-
     public static void closeConnection(PreparedStatement stmt, Connection con) throws SQLException {
         con.close();
         stmt.close();
-
     }
 }
